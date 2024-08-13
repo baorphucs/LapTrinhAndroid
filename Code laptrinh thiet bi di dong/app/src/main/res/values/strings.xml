@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lap08</string>
+    <string name="title">Quản Lý Sinh Viên</string>
+    <string name="idSv">ID</string>
+    <string name="MaSv">Mã Sinh Viên</string>
+    <string name="HoVaTen">Họ và Tên Sinh Viên</string>
+    <string name="Them">Thêm</string>
+    <string name="Xoa">Xóa</string>
+    <string name="CapNhat">Cập Nhật</string>
+    <string name="TimKiem">Tìm Kiến</string>
+    <string name="data">Danh Sách Sinh Viên</string>
+</resources>

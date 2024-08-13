@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ThucHanh2</string>
+    <string name="alphabeticShortcutclear">c</string>
+    <string name="alphabeticShortcutsetting">s</string>
+    <string name="alphabeticShortcutexit">e</string>
+
+    <string name="titleclear">CLEAR</string>
+    <string name="titlesetting">SETIING</string>
+    <string name="titleexit">EXIT</string>
+
+    <string name="message_caption">Caption</string>
+    <string name="message_content">Are you sure you want to clear the content?</string>
+    <string name="close">Close</string>
+
+
+    <string name="exit_caption">Caption</string>
+    <string name="exit_content">Are you sure you want to EXIT ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+
+    <string name="ForeColor">ForeColor</string>
+    <string name="BackColor">BackColor</string>
+
+
+    <string-array name="color_name_array">
+        <item name="red">Red</item>
+        <item name="orange">Orange</item>
+        <item name="yellow">Yellow</item>
+        <item name="green">Green</item>
+        <item name="blue">Blue</item>
+        <item name="indigo">Indigo</item>
+        <item name="violet">Violet</item>
+    </string-array>
+    <string-array name="color_array">
+        <item>#FF0000</item> <!-- Red -->
+        <item>#FFA500</item> <!-- Orange -->
+        <item>#FFFF00</item> <!-- Yellow -->
+        <item>#008000</item> <!-- Green -->
+        <item>#0000FF</item> <!-- Blue -->
+        <item>#4B0082</item> <!-- Indigo -->
+        <item>#EE82EE</item> <!-- Violet -->
+    </string-array>
+
+</resources>

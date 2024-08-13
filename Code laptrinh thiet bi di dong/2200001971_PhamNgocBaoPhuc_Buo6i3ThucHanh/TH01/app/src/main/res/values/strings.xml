@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TH01</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_hello">welcome to Lang Co beach</string>
+    <string name="copyright">Lap Trinh Android</string>
+</resources>

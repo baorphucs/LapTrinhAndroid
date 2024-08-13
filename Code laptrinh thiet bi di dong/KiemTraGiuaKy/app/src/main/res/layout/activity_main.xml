@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/lblTieuDe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#009688"
+        android:text="Phạm Ngọc Bảo Phúc-2200001971"
+        android:textAlignment="center"
+        android:textColor="#FFEB38"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+    <Button
+        android:id="@+id/btnClose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Đóng Ứng Dụng"
+        android:layout_gravity="center">
+    </Button>
+    <ListView
+        android:id="@+id/lvDanhSach"
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+    </ListView>
+    <TextView
+        android:id="@+id/lblNoiDung"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#009688"
+        android:text="Nội Dung"
+        android:textAlignment="center"
+        android:textColor="#FFEB38"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+    <ImageView
+        android:id="@+id/mImage"
+        android:layout_width="match_parent"
+        android:layout_height="225dp" />
+    <TextView
+        android:id="@+id/tvText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textColor="#009688"
+        android:textSize="15sp" />
+</LinearLayout>

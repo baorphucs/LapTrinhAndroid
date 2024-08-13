@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/clear"
+        android:alphabeticShortcut="@string/alphabeticShortcutclear"
+        android:title="@string/titleclear">
+
+    </item>
+    <item
+        android:alphabeticShortcut="@string/alphabeticShortcutsetting"
+        android:title="@string/titlesetting"
+        android:id="@+id/setting">
+
+    </item>
+    <item
+        android:id="@+id/exit"
+        android:title="@string/titleexit"
+        android:alphabeticShortcut="@string/alphabeticShortcutexit">
+    </item>
+</menu>
